@@ -1,0 +1,15 @@
+{
+	"name": "Arun kumaar",
+	"age": 24,
+	"status": true,
+	"employeeAddress": {
+		"state": "Tamil nadu",
+		"country": "India",
+		"city": "Chennai"
+	},
+	"courses": [
+		"java",
+		"java",
+		"selenium"
+	]
+}
